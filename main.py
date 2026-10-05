@@ -146,11 +146,10 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 ADMINS = [8672397104, 1130170420, 8450100073]  # coloque seu ID aqui
 
 # Grupo onde os Aliados fazem os pedidos
-GRUPO_PEDIDOS = -1003951906074
+GRUPO_PEDIDOS = -1003640277537
 
 # Grupo onde os Guardiões publicam os livros
-GRUPO_ACERVO = -1004356335279
-
+GRUPO_ACERVO = -1004466518709
 # Grupo onde serão enviados os livros de tradução
 GRUPO_TRADUCAO = -1003837848263
 
